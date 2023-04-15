@@ -1,14 +1,14 @@
-# C++ Interview Questions
+# Вопросы к собеседованию C++
 
-## Questions
+## Вопросы
 
-| № | Question |
+| № | ВОПРОС |
 | - | -------- |
 | 1 | [С vs С++](https://github.com/albrt-dev/cpp-interview-questions#c-vs-c) |
 | 2 | [struct vs class](https://github.com/albrt-dev/cpp-interview-questions#struct-vs-class) |
 | 3 | [static_cast vs C-style cast](https://github.com/albrt-dev/cpp-interview-questions#static_cast-vs-c-style-cast) |
 
-## Answers
+## Ответы
 1. ### C vs C++
    https://www.geeksforgeeks.org/difference-between-c-and-c
 2. ### struct vs class
